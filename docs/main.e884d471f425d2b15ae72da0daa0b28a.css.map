@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./styles/styles.scss"],"names":[],"mappings":"AAAA,SACI,sBAAuB,CAD3B,eAIQ,wBAAqC","file":"main.e884d471f425d2b15ae72da0daa0b28a.css","sourcesContent":[".counter {\n    background-color: green;\n\n    &:hover{\n        background-color: lighten(black, 49%);\n    }\n}\n\n\n// WEBPACK FOOTER //\n// ./styles/styles.scss"],"sourceRoot":""}
