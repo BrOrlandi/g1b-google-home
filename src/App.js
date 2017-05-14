@@ -24,7 +24,7 @@ export default class App extends Component {
     
     var m = this.refs.message.value;
     console.log("Msg: "+m);
-    fetch('http://https://32a0cdb8.ngrok.io/rest',{
+    fetch('https://32a0cdb8.ngrok.io/rest',{
       headers: {
       'Accept': 'application/json',
       'Content-Type': 'application/json'
